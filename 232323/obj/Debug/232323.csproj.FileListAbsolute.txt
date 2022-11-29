@@ -1,0 +1,14 @@
+D:\с#\232323\232323\bin\Debug\232323.exe.config
+D:\с#\232323\232323\bin\Debug\232323.exe
+D:\с#\232323\232323\bin\Debug\232323.pdb
+D:\с#\232323\232323\obj\Debug\232323.csproj.AssemblyReference.cache
+D:\с#\232323\232323\obj\Debug\232323.csproj.SuggestedBindingRedirects.cache
+D:\с#\232323\232323\obj\Debug\_232323.Form1.resources
+D:\с#\232323\232323\obj\Debug\_232323.Properties.Resources.resources
+D:\с#\232323\232323\obj\Debug\232323.csproj.GenerateResource.cache
+D:\с#\232323\232323\obj\Debug\232323.csproj.CoreCompileInputs.cache
+D:\с#\232323\232323\obj\Debug\232323.exe
+D:\с#\232323\232323\obj\Debug\232323.pdb
+D:\с#\232323\232323\obj\Debug\Interop.MediaPlayer.dll
+D:\с#\232323\232323\obj\Debug\Interop.WMPLib.dll
+D:\с#\232323\232323\obj\Debug\232323.csproj.ResolveComReference.cache
